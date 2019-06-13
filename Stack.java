@@ -21,6 +21,15 @@ public class Stack {
   
   /* 
   */
-  // TODO - create a recursive method(s) to reverse a Stack. You will not receive any credit for using any loops or static variables. 
+  /*TODO - create a recursive method(s) to reverse a Stack. You will not receive any credit for using any loops or static variables. 
+  Use helper methods as needed*/
+ 
+  
+  /* TODO - create a method(s) to sort a Queue WITHOUT using any extra memory. The efficiency of the algorithm isn't important, but should
+  not crash the computer. You may use any iterators or static variables if you would like. Use any helper methods as needed.*/
+  
+  /* TODO - create a method(s) to sort a Stack using recursion. No loops or static variables are allowed,
+  and you can only used ADT functions. Use helper methods as needed. 
+  */
   
 }
